@@ -31,7 +31,7 @@
 <br />
 <h3 align="center">RayTracer</h3>
 <div align="center">
-  <a href="https://github.com/eduardo79silva/RayTracer">
+  <a href="https://github.com/Eduardo79Silva/RayTracer">
     <img src="images/demo.png" alt="Demo">
   </a>
 
@@ -39,14 +39,14 @@
   <p align="center">
     Raytracer with denoiser for rendering spheres. (In development)
     <br />
-    <!-- <a href="https://github.com/eduardo79silva/RayTracer"><strong>Explore the docs »</strong></a> -->
+    <!-- <a href="https://github.com/Eduardo79Silva/RayTracer"><strong>Explore the docs »</strong></a> -->
     <br />
     <br />
-    <a href="https://github.com/eduardo79silva/RayTracer">View Demo</a>
+    <a href="https://github.com/Eduardo79Silva/RayTracer">View Demo</a>
     ·
-    <a href="https://github.com/eduardo79silva/RayTracer/issues">Report Bug</a>
+    <a href="https://github.com/Eduardo79Silva/RayTracer/issues">Report Bug</a>
     ·
-    <a href="https://github.com/eduardo79silva/RayTracer/issues">Request Feature</a>
+    <a href="https://github.com/Eduardo79Silva/RayTracer/issues">Request Feature</a>
   </p>
 </div>
 
@@ -143,7 +143,7 @@ eduardo4silva@gmail.com
 
 
 
-Project Link: [https://github.com/eduardo79silva/RayTracer](https://github.com/eduardo79silva/RayTracer)
+Project Link: [https://github.com/Eduardo79Silva/RayTracer](https://github.com/Eduardo79Silva/RayTracer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,13 +154,13 @@ Project Link: [https://github.com/eduardo79silva/RayTracer](https://github.com/e
 [contributors-shield]: https://img.shields.io/github/contributors/eduardo79silva/RayTracer.svg?style=for-the-badge
 [contributors-url]: https://github.com/Eduardo79Silva/RayTracer/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/eduardo79silva/RayTracer.svg?style=for-the-badge
-[forks-url]: https://github.com/eduardo79silva/RayTracer/network/members
+[forks-url]: https://github.com/Eduardo79Silva/RayTracer/network/members
 [stars-shield]: https://img.shields.io/github/stars/eduardo79silva/RayTracer.svg?style=for-the-badge
-[stars-url]: https://github.com/eduardo79silva/RayTracer/stargazers
+[stars-url]: https://github.com/Eduardo79Silva/RayTracer/stargazers
 [issues-shield]: https://img.shields.io/github/issues/eduardo79silva/RayTracer.svg?style=for-the-badge
-[issues-url]: https://github.com/eduardo79silva/RayTracer/issues
+[issues-url]: https://github.com/Eduardo79Silva/RayTracer/issues
 [license-shield]: https://img.shields.io/github/license/eduardo79silva/RayTracer.svg?style=for-the-badge
-[license-url]: https://github.com/eduardo79silva/RayTracer/blob/master/LICENSE.txt
+[license-url]: https://github.com/Eduardo79Silva/RayTracer/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
