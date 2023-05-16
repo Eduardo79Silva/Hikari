@@ -152,7 +152,7 @@ Project Link: [https://github.com/eduardo79silva/RayTracer](https://github.com/e
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/eduardo79silva/RayTracer.svg?style=for-the-badge
-[contributors-url]: https://github.com/eduardo79silva/RayTracer/graphs/contributors
+[contributors-url]: https://github.com/Eduardo79Silva/RayTracer/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/eduardo79silva/RayTracer.svg?style=for-the-badge
 [forks-url]: https://github.com/eduardo79silva/RayTracer/network/members
 [stars-shield]: https://img.shields.io/github/stars/eduardo79silva/RayTracer.svg?style=for-the-badge
