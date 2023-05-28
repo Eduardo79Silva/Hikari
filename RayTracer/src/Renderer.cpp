@@ -105,6 +105,10 @@ glm::vec4 Renderer::PerPixel(uint32_t x, uint32_t y)
 	Ray ray;
 	ray.origin = m_ActiveCamera->GetPosition();
 	ray.direction = m_ActiveCamera->GetRayDirections()[x + y * m_FinalImage->GetWidth()];
+	float random1 = (std::rand() / (float)RAND_MAX)/900;
+	float random2 = (std::rand() / (float)RAND_MAX)/900;
+	ray.direction.x += random1;
+	ray.direction.y += random2;
 
 	glm::vec3 color(0.0f);
 	float multiplier = 1.0f;
