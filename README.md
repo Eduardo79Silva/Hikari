@@ -32,13 +32,20 @@
 <h3 align="center">RayTracer</h3>
 <div align="center">
   <a href="https://github.com/Eduardo79Silva/RayTracer">
-    <img src="images/demo.png" alt="Demo">
+    <img src="images/demo.png" alt="Demo"  width="60%" height="30%">
   </a>
+  
 
 
   <p align="center">
     Raytracer with denoiser for rendering spheres. (In development)
     <br />
+    <br />
+    <a href="https://github.com/Eduardo79Silva/RayTracer">
+      <img src="images/emissive.png" alt="Emissive" width="60%" height="30%">
+    </a>
+    <br />
+    Emissive materials showcase
     <!-- <a href="https://github.com/Eduardo79Silva/RayTracer"><strong>Explore the docs »</strong></a> -->
     <br />
     <br />
@@ -48,6 +55,7 @@
     ·
     <a href="https://github.com/Eduardo79Silva/RayTracer/issues">Request Feature</a>
   </p>
+
 </div>
 
 
